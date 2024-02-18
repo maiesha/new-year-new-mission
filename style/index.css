@@ -3,36 +3,44 @@ body {
     font-family: "Merriweather", serif;
     font-weight: 300 400 700 900;
     font-style: normal;
+}
 
-
+section {
+    margin-top: 120px;
 }
 
 /* header part */
-.new-year-party {
+header{
     background-image: url('../images/Banner\ Image.png');
     background-repeat: no-repeat;
+    background-position: center;
+    position: absolute;
+    width: 1320px;
+    height: 600px;
+    left: 140px;
+    right: -140px;
+    top: 50px;
+    bottom: -50px;
+    border-radius: 16px;
+    
+}  
+.new-year-party{
+    padding: 120px;
+    background: linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 100%);
+    border-radius: 16px;
+}  
 
-position: absolute;
-width: 1320px;
-height: 600px;
-left: 140px;
-right: -140px;
-top: 50px;
-bottom: -50px;
-border-radius: 16px;
-}
 
 .happy-new-year {
     color: rgb(255, 255, 255);
     text-align: center;
+    font-size: 30px;
 
 }
-.party-celebration{
-    color: rgb(255, 255, 255);
 
-font-size: 72px;
-font-weight: 700;
-line-height: 95px;
-letter-spacing: 0%;
-text-align: center;
+.party-celebration {
+    color: rgb(255, 255, 255);
+    font-size: 72px;
+    font-weight: 700;
+    text-align: center;
 }

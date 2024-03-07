@@ -3,7 +3,7 @@ body {
     font-family: "Merriweather", serif;
     font-weight: 300 400 700 900;
     font-style: normal;
-    margin: 50px 100px;
+    margin: 50px 50px;
 }
 
 /* header part */
@@ -474,4 +474,4 @@ footer{
     text-align: left;
     margin-left: 80px;
 }
-
+ 

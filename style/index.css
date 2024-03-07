@@ -6,8 +6,6 @@ body {
     margin: 50px 100px;
 }
 
-
-
 /* header part */
 header {
     background-image: url('../images/Banner\ Image.png');
@@ -52,17 +50,25 @@ section {
     left: 150px;
     right: -150px;
     border-radius: 16px;
+    padding-bottom: 100px;
+   
+}
+.holiday-deals img{
+    width: 500px;
+    height: 400px;
 }
 
 .holiday-deals {
     text-align: center;
+   
 }
 
 .holiday-deals h1 {
     color: rgb(255, 0, 0);
     font-family: Inter;
-    font-size: 50px;
+    font-size: 80px;
     font-weight: 700;
+ 
 }
 
 .holiday-deals p {
@@ -70,6 +76,8 @@ section {
     font-family: Inter;
     font-size: 24px;
     font-weight: 500;
+    line-height: 2px;
+    
 }
 
 .holiday-deals h5 {
@@ -77,6 +85,7 @@ section {
     font-family: Inter;
     font-size: 48px;
     font-weight: 700;
+    line-height: 2px;
 
 }
 
@@ -90,6 +99,7 @@ section {
     left: 150px;
     right: -150px;
     border-radius: 16px;
+
 }
 
 .second-section h1 {
@@ -167,3 +177,301 @@ section {
     font-size: 20px;
     font-weight: 600;
 }
+.fourth-section{
+    position: absolute;
+    width: 1320px;
+    height: 463px;
+    left: 140px;
+    right: 140px;
+    top: 2600px;
+    bottom: 3854px;
+    display: flex;
+}
+ .fourth-section div{
+    margin:5px; 
+    padding: 20px; 
+}
+.new-best-offer{
+    display: inline;
+    align-items: center;
+}
+.new-best-offer h4{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 10px;
+}
+.new-best-offer h2{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 5px;
+    text-align: left;
+}
+.new-best-offer p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+}
+.new-best-img{
+    border-radius: 50%;
+    border: 15px solid rgb(255, 0, 0);
+    padding: 15px;
+}
+.twenty-four h2{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 48px;
+    font-weight: 700;
+    line-height: 8px;
+    text-align: left;
+}
+.twenty-four p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 20px;
+    text-align: left;
+} 
+
+.fifth-section{
+    position: absolute;
+    width: 1320px;
+    height: 463px;
+    left: 140px;
+    right: 140px;
+    top: 3100px;
+    display: flex;
+}
+.holiday-sale{
+    position: absolute;
+}
+.holiday-sale h6{
+    color: rgb(7, 2, 17);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    text-align: center;
+}
+.holiday-sale h2{
+    font-family: Merriweather;
+    font-size: 72px;
+    font-weight: 900;
+    line-height: 1.5px;
+    text-align: center;
+}
+#holiday{
+    color: rgb(255, 0, 0);
+}
+.holiday-sale p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 500;
+    line-height: 32px;
+    text-align: center;
+}
+.container-one{
+    position: relative;
+    top: 200px;
+    left: 10px;
+}
+.image1{
+    position: relative;
+    top: 600px;
+}
+.image2{
+    position: absolute;
+    top: 350px;
+    left: 100px;
+    width: 500px;        
+}
+.image3{
+    position: absolute;
+    top: 90px;
+    right: 3px;
+    width: 500px; 
+}
+.image4{
+    position: absolute;
+    top: 200px;
+    right: 350px;
+}
+.sixth-section{
+    position: absolute;
+    width: 1320px;
+    height: 1163px;
+    left: 140px;
+    right: -140px;
+    top: 4200px;
+    bottom: -4707.07px;
+}
+.best-gift h4{
+    color: rgb(255, 0, 0);
+    font-family: Inter;
+    font-size: 20px;
+    line-height: 10px;
+}
+.best-gift h2{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 5px;
+    text-align: left;
+}
+.best-gift p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: left;
+}  
+.column img{
+    margin: 2px;
+    padding: 7px;
+    width: 418.5px;
+}
+.seventh-section{
+    position: absolute;
+    width: 1320px;
+    height: 616px;
+    left: 140px;
+    right: -140px;
+    top: 5400px;
+    bottom: -5200.07px;
+    border-radius: 16px;
+    background: rgba(255, 0, 0, 0.05); 
+}
+.subscribe-part{
+    padding: 100px;
+}
+.subscribe-part img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.subscribe-part h2{
+    color: rgb(7, 2, 17);
+    font-family: Merriweather;
+    font-size: 40px;
+    font-weight: 900;
+    line-height: 5px;
+    text-align: center;
+}
+.subscribe-part p{
+    color: rgba(7, 2, 17, 0.6);
+    font-family: Inter;
+    font-size: 20px;
+    font-weight: 400;
+    line-height: 30px;
+    text-align: center;
+}
+form.example input {
+    padding: 20px;
+    font-size: 25px;
+    border: none;
+    border-top-left-radius: 50px;
+    border-bottom-left-radius: 50px;
+    width: 100%;
+    background: #f1f1f1;
+}
+form.example button {
+    width: 40%;
+    margin: 2px 8px;
+    padding: 20px;
+    background: rgb(255, 0, 0);
+    color: white;
+    font-size: 17px;
+    border: none;
+    border-top-right-radius: 50px;
+    border-bottom-right-radius: 50px;
+    cursor: pointer;
+    text-align: center;
+}
+form.example button:hover {
+    background:  rgb(224, 6, 6);
+}
+form.example::after {
+    content: "";
+    clear: both;
+    display: table;
+}
+form{
+    margin: auto;
+    max-width: 600px;
+    display: flex;
+}
+/*main part end */
+
+/*footer part start */
+
+footer{
+    position: absolute;
+    width: 1320px;
+    height: 609px;
+    left: 140px;
+    right: -140px;
+    top: 6250px;
+    bottom: -6726px;
+}
+.main-div{
+    background: rgb(7, 2, 17);
+    width: 1320px;
+    height: 609px;
+}
+.address{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 2px 10px;
+}
+.address div{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 500;
+    line-height: 40px;
+    text-align: left;
+    margin-top: 100px;
+    margin-left: 80px;
+}
+.address-link a{
+    padding-top: 20px;
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+.icon{
+    display: flex;
+    margin-top: 20px;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    border-top:1px solid rgba(255, 255, 255, 0.15);
+    border-bottom: 1px solid rgba(255, 255, 255, 0.15);
+}
+.icon div{
+    margin-left: 500px;
+}
+.icon img{
+    margin-left: 30px;
+}
+.copy-right{
+    display: grid;
+    grid-template-columns: auto auto;
+    gap: 2px 10px;
+}
+.copy-right div{
+    color: rgb(255, 255, 255);
+    font-family: Inter;
+    font-size: 24px;
+    font-weight: 200;
+    line-height: 40px;
+    text-align: left;
+    margin-left: 80px;
+}
+
